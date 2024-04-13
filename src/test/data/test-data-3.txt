@@ -1,0 +1,4 @@
+<user1> this is some chat words
+<user2> the sky is blue
+!@#$%^&*()
+<user1> more chat from me!

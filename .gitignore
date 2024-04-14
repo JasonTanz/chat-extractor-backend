@@ -29,7 +29,7 @@ build/
 
 
 
-
+dist/
 # VS Code
 
 .vscode

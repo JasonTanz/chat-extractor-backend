@@ -23,7 +23,7 @@
     "typescript": "~5.3"
   },
   "scripts": {
-    "start": "node build/src/main.js",
+    "start": "node dist/main.js",
     "dev": "NODE_ENV=development nodemon src/main.ts",
     "clean": "rimraf coverage build tmp",
     "prebuild": "npm run lint",

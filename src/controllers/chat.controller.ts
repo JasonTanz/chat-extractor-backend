@@ -51,6 +51,7 @@ export const analyzeChattiestUser = (
       .trim()
       .split(' ')
       .filter((word) => word !== '');
+
     // Check if start with < and end with >
     if (startIdx !== -1 && endIdx !== -1) {
       // Extract username

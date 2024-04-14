@@ -87,7 +87,7 @@ describe('analyzeChattiestUser', () => {
   it('should output the ranking correctly if there"s multiple user with same words count', () => {
     const expectedOutput = {
       'text-data-6.txt': {
-        1: [{ name: 'user1', wordCount: 29 }],
+        1: [{ name: 'jason', wordCount: 29 }],
         2: [{ name: 'user3', wordCount: 13 }],
         3: [
           { name: 'user2', wordCount: 8 },

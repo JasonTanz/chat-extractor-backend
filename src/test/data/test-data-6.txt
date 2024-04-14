@@ -1,14 +1,14 @@
-<user1> do you know what day is today?
+<jason> do you know what day is today?
 <user2> today is friday night, we should hang out
 <user3> yea right i'm thinking where should we go
-<user1> maybe we should go to KLCC
+<jason> maybe we should go to KLCC
 <user3> sounds like a good idea
 <user4> or perhaps we can go makan makan
 <user5> at where yea?
 <user6> mamak? or where?
-<user1> or we can go mookata
+<jason> or we can go mookata
 <user7> yea sure
 <user8> or bbq
-<user1> or we can try out some sushi, i suggest sushi mentai
+<jason> or we can try out some sushi, i suggest sushi mentai
 <user4> sure
 <user5> i wan to go gsc  
